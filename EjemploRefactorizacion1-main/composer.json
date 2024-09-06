@@ -1,0 +1,21 @@
+{  
+  "name": "yarit/ejemplorefactorizacion1-main",  
+  "type": "project",  
+  "authors": [  
+      {  
+          "name": "Yaritza Galvez CHaico",  
+          "email": "2020124671j@utea.edu.pe"  
+      }  
+  ],  
+  "autoload": {  
+    "psr-4": {  
+      "App\\": "app/"  
+    }  
+  },  
+  "require-dev": {  
+    "phpunit/phpunit": "^11.3"  
+  },  
+  "scripts": {  
+      "test": "vendor/bin/phpunit"  
+  }  
+}
