@@ -40,3 +40,6 @@ Aquí se aborda la eliminación del código repetido mediante la refactorizació
 - **BaseStyde1 y BaseStyde2**: Ejemplos básicos tomados de Styde, enfocados en la refactorización de código.
 - **Calistenia de Objetos en PHP**: Ejercicios prácticos aplicando la calistenia de objetos para mejorar la estructura del código en PHP.
 - **Ejemplo de Refactorización**: Un caso práctico de refactorización, mostrando el código antes y después del proceso.
+
+## Ejecución de Pruebas Unitarias
+Para ejecutar las pruebas unitarias, asegúrate de tener PHPUnit instalado. Luego, desde la terminal, ejecuta el siguiente comando en la raíz del proyecto:
