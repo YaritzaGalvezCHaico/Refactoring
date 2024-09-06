@@ -33,3 +33,10 @@ Este proyecto muestra cómo eliminar el uso excesivo de variables temporales med
 
 ### 10. Ejemplo de Refactorización de Código Repetido
 Aquí se aborda la eliminación del código repetido mediante la refactorización y la creación de métodos reutilizables.
+
+## Descripción de Carpetas
+- **AutoPHPUnit**: Contiene ejemplos sobre cómo automatizar pruebas en PHP usando PHPUnit.
+- **AvanceClasesphp-main**: Un avance de las clases refactorizadas en PHP.
+- **BaseStyde1 y BaseStyde2**: Ejemplos básicos tomados de Styde, enfocados en la refactorización de código.
+- **Calistenia de Objetos en PHP**: Ejercicios prácticos aplicando la calistenia de objetos para mejorar la estructura del código en PHP.
+- **Ejemplo de Refactorización**: Un caso práctico de refactorización, mostrando el código antes y después del proceso.
