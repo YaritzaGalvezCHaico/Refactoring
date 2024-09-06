@@ -42,4 +42,20 @@ Aquí se aborda la eliminación del código repetido mediante la refactorizació
 - **Ejemplo de Refactorización**: Un caso práctico de refactorización, mostrando el código antes y después del proceso.
 
 ## Ejecución de Pruebas Unitarias
-Para ejecutar las pruebas unitarias, asegúrate de tener PHPUnit instalado. Luego, desde la terminal, ejecuta el siguiente comando en la raíz del proyecto:
+
+Este proyecto incluye pruebas unitarias para asegurar que el código refactorizado funciona correctamente. A continuación se detallan los pasos para ejecutar estas pruebas.
+
+### Prerrequisitos
+
+Antes de ejecutar las pruebas unitarias, asegúrate de que los siguientes requisitos estén cubiertos:
+
+1. **PHP** instalado en tu máquina (versión 7.4 o superior).
+2. **Composer** instalado para gestionar dependencias.
+3. **PHPUnit** instalado mediante Composer.
+
+### Instalación de Dependencias
+
+Si no has instalado las dependencias del proyecto, ejecuta el siguiente comando en la raíz del proyecto para instalarlas:
+
+```bash
+composer install
